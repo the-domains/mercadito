@@ -1,0 +1,14 @@
+layout_spectrum: 0.8157693
+typography_spectrum: 0.1043922
+color:
+  saturation: 0.9273291
+  lightness: 0.5689677
+  brandStrength: 0.9489465
+  rhythmicContrast: 0.8889323
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Mercadito
